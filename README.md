@@ -23,7 +23,7 @@
  2. Install and run PosgreSQL server
  3. Run Celery worker
 ```bash
-$ celery worker --app sixcents --loglevel info --logfile celery-worker.log --detach
+$ celery worker --gaaky --loglevel info --logfile celery-worker.log --detach
 ```
 ## How to run it? 
 1. it's so easy (install requirement)
